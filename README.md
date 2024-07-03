@@ -11,6 +11,6 @@ A simple portscanner that can scan for open ports on a given machine.
 
 5.Enter the number of ports to scan.
 
-Note :If `python portscanner.py` doesn't works, try using `python3 portscanner.py`
+Note 1:If `python portscanner.py` doesn't works, try using `python3 portscanner.py`
       
-      In case of any error with `module termcolor not found` run `pip install termcolor` before          running the script in terminal.
+Note 2:In case of any error with `module termcolor not found` run `pip install termcolor` before          running the script in terminal.
